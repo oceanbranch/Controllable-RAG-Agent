@@ -1,43 +1,9 @@
 # Sophisticated Controllable Agent for Complex RAG Tasks 🧠📚
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nir-diamant-759323134/)
-[![Twitter](https://img.shields.io/twitter/follow/NirDiamantAI?label=Follow%20@NirDiamantAI&style=social)](https://twitter.com/NirDiamantAI)
-[![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8PSA7s5v)
-
 
 An advanced Retrieval-Augmented Generation (RAG) solution designed to tackle complex questions that simple semantic similarity-based retrieval cannot solve. This project showcases a sophisticated deterministic graph acting as the "brain" of a highly controllable autonomous agent capable of answering non-trivial questions from your own data.
 
 ![Demo](graphs/demo.gif)
-
-🚀 Level up with my **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** repository. It delivers horizontal, code-first tutorials that cover every tool and step in the lifecycle of building production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches, making it the smartest place to start if you're serious about shipping agents to production.
-
-📚 Explore my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to complement this advanced agent implementation with many other RAG techniques.
-
-🤖 Explore my **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)** to complement this advanced agent implementation with many other AI Agents implementations and tutorials.
-
-## 📫 Stay Updated!
-
-<div align="center">
-<table>
-<tr>
-<td align="center">🚀<br><b>Cutting-edge<br>Updates</b></td>
-<td align="center">💡<br><b>Expert<br>Insights</b></td>
-<td align="center">🎯<br><b>Top 0.1%<br>Content</b></td>
-</tr>
-</table>
-
-[![Subscribe to DiamantAI Newsletter](assets/subscribe-button.svg)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
-
-*Join over 20,000 of AI enthusiasts getting unique cutting-edge insights and free tutorials!* ***Plus, subscribers get exclusive early access and special 33% discounts to my book and the upcoming RAG Techniques course!***
-</div>
-
-[![DiamantAI's newsletter](assets/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
-
-
-<!-- https://github.com/NirDiamant/Controllable-RAG-Agent/blob/main/assets/video_demo.mp4 -->
-<!-- [![YouTube](http://i.ytimg.com/vi/_73OV1z3sTg/hqdefault.jpg)](https://www.youtube.com/watch?v=_73OV1z3sTg) -->
 
 ## 🌟 Key Features
 
@@ -164,11 +130,6 @@ The agent's ability to break down and solve such complex queries demonstrates it
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
-
-## 📚 Learn More
-
-- [Lecture Video](https://www.youtube.com/watch?v=orhV7ZMSRyM&t=33s&ab_channel=DiamantAI)
-- [Blog Post Article](https://open.substack.com/pub/diamantai/p/controllable-agent-for-complex-rag?r=336pe4&utm_campaign=post&utm_medium=web)
 
 ## 🙏 Acknowledgements
 
